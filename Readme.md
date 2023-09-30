@@ -1,1 +1,1 @@
-# IntroDuction to TypeScript
+# Introduction to TypeScript
